@@ -1,6 +1,6 @@
 # Easy Hummus Recipe
 
-## Ingregients:
+## Ingredients
 
 - chickpeas
 - tahini
@@ -10,6 +10,6 @@
 - salt
 - olive oil
 
-## Instructions:
+## Instructions
 
 - mix aand enjoy!
